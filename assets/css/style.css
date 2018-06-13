@@ -1,0 +1,58 @@
+#header{
+    margin: 0.2rem;
+    font-size: 33px;
+    width: 16rem;
+    padding:2rem;
+    background: #A5F5FE;
+    color: #888888;
+}
+#container{
+    padding-top: 1rem;
+    padding-bottom: 8rem;
+    margin: 0.2rem;
+    font-size: 24px;
+    width: 64rem;
+    background: #95FEB1;
+    
+}
+#container p{
+    line-height: 2;
+   color: #DB8AFF;
+}
+#randomNumber{
+    margin: 0.2rem;
+    padding-right: 16rem;
+    background: #FB0100;
+    font-size: 72px;
+    padding-bottom: 10rem;
+}
+#score{
+    position: relative;
+    left:48.2rem;
+    bottom: 4.6rem;
+    font-size: 24px;
+    background: #DB8AFF;
+    padding-top: 11.8rem;
+    width: 16rem
+}
+#win{
+    position: relative;
+    bottom: 10rem;
+}
+#loss{
+    position: relative
+}
+#guess{
+    background: #DAFBE3;
+    width: 50rem;
+    padding-bottom: 10rem;
+    line-height: 3;
+    font-size: 32px;
+    color: #DB8AFF;
+}
+.crystal{
+
+    width:200px;
+    height: 200px;
+    float: left;
+}
