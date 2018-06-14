@@ -60,8 +60,6 @@ function checkOver(){
         $("#losses").text(losses);
         reset();
     }
-
-
 }
 
 function reset() {
